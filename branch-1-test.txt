@@ -1,2 +1,2 @@
-Branch - 1 - test. upgraded via branch-conflict-2
+Branch - 1 - test. upgraded via branch-conflict-2 HEAD
 
